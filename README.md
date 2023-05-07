@@ -1,27 +1,60 @@
-# ProductPreviewCardComponent
+# Product Preview Card Component
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Bienvenido al repositorio de Product Preview Card Component, un proyecto desarrollado en Angular v15.2.6.
 
-## Development server
+Este proyecto es un componente de tarjeta de vista previa de producto diseñado para recrear de manera fiel un reto de [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+, utilizando HTML y CSS. El componente de tarjeta de vista previa de producto se utiliza para mostrar información sobre un producto, incluyendo una imagen del mismo, una descripción y un botón de compra.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+El componente es totalmente responsivo y está diseñado para ser fácilmente integrado en cualquier proyecto de front-end. Está construido utilizando únicamente HTML y CSS, y se ha optimizado para ofrecer una experiencia de usuario fluida y atractiva.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Demo 🚀
 
-## Build
+Puedes ver una demostración en vivo del proyecto en [Product Preview Card Component](https://davedeveloper117.github.io/Product-Preview-Card-Component/).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologías utilizadas ⚡
 
-## Running unit tests
+-   Angular v15.2.6
+-   HTML
+-   CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instalación 📥
 
-## Running end-to-end tests
+Para instalar y ejecutar este proyecto, necesitarás tener instalado [Node.js](https://nodejs.org/es/) y [Angular CLI](https://angular.io/cli) en tu máquina.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1.  Clona el repositorio a tu máquina:
+        
+    ```bash
+    git clone https://github.com/DaveDeveloper117/Product-Preview-Card-Component.git
+    ``` 
+    
+2.  Navega al directorio del proyecto:
+  
+    ```bash
+    cd Product-Preview-Card-Component
+    ``` 
+    
+3.  Instala las dependencias del proyecto:
+  
+    ```bash
+    npm install
+    ``` 
+    
+4.  Inicia la aplicación en tu navegador:
+       
+    ```bash
+    ng serve --open
+    ``` 
+    
 
-## Further help
+## Licencia 🔑
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este proyecto se distribuye bajo la Licencia MIT. Por favor, lee el archivo [LICENSE](https://github.com/DaveDeveloper117/Results-Summary-Component/blob/master/LICENSE) para más información.
+
+## Contacto 📩
+
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo
+
+- Frontend Mentor - [@DaveDeveloper117](https://www.frontendmentor.io/profile/DaveDeveloper117)
+
+¡Gracias por visitar mi proyecto! :smiley:
