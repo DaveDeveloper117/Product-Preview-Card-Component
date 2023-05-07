@@ -1,4 +1,4 @@
-.container{
+.container {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -9,5 +9,7 @@
     .container {
         align-items: flex-start;
         margin: 0;
-      }
+        height: fit-content;
+        margin-bottom: 1rem;
+    }
 }
