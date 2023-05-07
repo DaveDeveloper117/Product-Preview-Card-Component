@@ -103,6 +103,7 @@
 
 @media screen and (max-width: 769px) {
     .card {
+        margin-top: 0;
         flex-direction: column;
         border-radius: 15px;
         overflow: hidden;
@@ -119,7 +120,7 @@
 
     .card-image img.mobile-image {
         display: block;
-        max-width: 100%;
+        width: 100%;
         margin-bottom: 10px;
     }
 
@@ -147,6 +148,6 @@
 
     .card-image img.desktop-image {
         display: block;
-        max-width: 100%;
+        width: 100%;
     }
 }

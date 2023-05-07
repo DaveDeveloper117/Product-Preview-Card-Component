@@ -4,3 +4,10 @@
     align-items: center;
     justify-content: center;
 }
+
+@media screen and (max-width: 769px) {
+    .container {
+        align-items: flex-start;
+        margin: 0;
+      }
+}
