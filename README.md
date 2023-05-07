@@ -49,7 +49,7 @@ Para instalar y ejecutar este proyecto, necesitarás tener instalado [Node.js](h
 
 ## Licencia 🔑
 
-Este proyecto se distribuye bajo la Licencia MIT. Por favor, lee el archivo [LICENSE](https://github.com/DaveDeveloper117/Results-Summary-Component/blob/master/LICENSE) para más información.
+Este proyecto se distribuye bajo la Licencia MIT. Por favor, lee el archivo [LICENSE](https://github.com/DaveDeveloper117/Product-Preview-Card-Component/blob/master/LICENSE) para más información.
 
 ## Contacto 📩
 
